@@ -77,7 +77,7 @@ Technologies: C++.
 <br/>
 
 <p>
-<img align="center" alt="visitors" src="https://gpvc.arturio.dev/elviscas"/>
+<img align="center" alt="visitors" src="https://gpvc.arturio.dev/elvisjcb10"/>
 </p>
 
 -----
