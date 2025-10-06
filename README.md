@@ -39,21 +39,6 @@
 
 ## 📝 Recent Projects
 
-### [Tour Management System in C++](#)
-System to register and manage tour reservations including type, age category, transport, guide language, and modality. Generates detailed reports with statistics.  
-Technologies: C++, SQL, file management.
-
-### [Pollard-Rho Algorithm Project](#)
-Implementation and testing of the Pollard-Rho factorization algorithm for integer factorization.  
-Technologies: C++.
-
-### [MiNegocio.pe (React + Firebase)](#)
-Web application for publishing and searching businesses with authentication, listing, and detailed views.  
-Technologies: React, Vite, Firebase Authentication, MySQL.
-
-### [Large Number Multiplication Algorithms](#)
-Research and implementation of Karatsuba, Toom-Cook, Lagrange interpolation, and FFT for big integer multiplication.  
-Technologies: C++.
 
 <br/>
 
